@@ -1,0 +1,23 @@
+{
+    "name": "BotTemplat",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "32b08500-8505-11e8-b963-4d85d294461c",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://127.0.0.1:3978/api/messages",
+            "name": "http://127.0.0.1:3978/api/messages"
+        },
+        {
+            "appId": "",
+            "id": "dc2d0ff0-8734-11e8-9ae7-f1800f26d5a4",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://127.0.0.1:3978/api/messages",
+            "name": "Demo"
+        }
+    ]
+}

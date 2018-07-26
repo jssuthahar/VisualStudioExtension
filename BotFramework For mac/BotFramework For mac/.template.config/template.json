@@ -1,0 +1,25 @@
+﻿{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Suthahar jagatheesan",
+    "classifications": [],
+    "description": "",
+    "name": "BotApplication",
+    "defaultName": "Bot Application",
+    "identity": "MyTemplate.Bot Application.CSharp",
+    "groupIdentity": "MyTemplate.Bot Application",
+    "tags": {
+        "language": "C#",
+        "type": "project",
+        "vsmac-category": "other/net/general"
+    },
+    "shortName": "BotApplication for mac",
+    "sourceName": "Bot Application",
+    "guids": [
+        "{$GUID1$}"
+    ],
+    "primaryOutputs": [
+        {
+            "path": "Bot Application.csproj"
+        }
+    ]
+}

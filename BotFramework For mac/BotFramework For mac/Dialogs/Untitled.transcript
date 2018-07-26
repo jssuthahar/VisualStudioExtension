@@ -1,0 +1,114 @@
+[
+  {
+    "type": "conversationUpdate",
+    "membersAdded": [
+      {
+        "id": "32b08500-8505-11e8-b963-4d85d294461c",
+        "name": "Bot"
+      }
+    ],
+    "channelId": "emulator",
+    "conversation": {
+      "id": "5c1a5380-8505-11e8-b963-4d85d294461c|livechat"
+    },
+    "id": "5c261350-8505-11e8-8f4d-89f618cf3c60",
+    "localTimestamp": "2018-07-11T17:54:30+05:30",
+    "recipient": {
+      "id": "32b08500-8505-11e8-b963-4d85d294461c",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "timestamp": "2018-07-11T12:24:30.213Z",
+    "from": {
+      "id": "default-user",
+      "name": "User"
+    },
+    "serviceUrl": "http://localhost:60630"
+  },
+  {
+    "type": "conversationUpdate",
+    "membersAdded": [
+      {
+        "id": "default-user",
+        "name": "User"
+      }
+    ],
+    "channelId": "emulator",
+    "conversation": {
+      "id": "5c1a5380-8505-11e8-b963-4d85d294461c|livechat"
+    },
+    "id": "5c268880-8505-11e8-8f4d-89f618cf3c60",
+    "localTimestamp": "2018-07-11T17:54:30+05:30",
+    "recipient": {
+      "id": "32b08500-8505-11e8-b963-4d85d294461c",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "timestamp": "2018-07-11T12:24:30.216Z",
+    "from": {
+      "id": "default-user",
+      "name": "User"
+    },
+    "serviceUrl": "http://localhost:60630"
+  },
+  {
+    "type": "message",
+    "text": "Hi",
+    "from": {
+      "id": "default-user",
+      "name": "User"
+    },
+    "locale": "en-GB",
+    "textFormat": "plain",
+    "timestamp": "2018-07-11T12:24:33.363Z",
+    "channelData": {
+      "clientActivityId": "1531311870136.8307445602676513.0"
+    },
+    "entities": [
+      {
+        "type": "ClientCapabilities",
+        "requiresBotState": true,
+        "supportsTts": true,
+        "supportsListening": true
+      }
+    ],
+    "channelId": "emulator",
+    "conversation": {
+      "id": "5c1a5380-8505-11e8-b963-4d85d294461c|livechat"
+    },
+    "id": "5e06ba30-8505-11e8-8f4d-89f618cf3c60",
+    "localTimestamp": "2018-07-11T17:54:33+05:30",
+    "recipient": {
+      "id": "32b08500-8505-11e8-b963-4d85d294461c",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "serviceUrl": "http://localhost:60630"
+  },
+  {
+    "type": "message",
+    "timestamp": "2018-07-11T12:24:33.871Z",
+    "localTimestamp": "2018-07-11T17:54:33+05:30",
+    "serviceUrl": "http://localhost:60630",
+    "channelId": "emulator",
+    "from": {
+      "id": "32b08500-8505-11e8-b963-4d85d294461c",
+      "name": "Bot"
+    },
+    "conversation": {
+      "id": "5c1a5380-8505-11e8-b963-4d85d294461c|livechat"
+    },
+    "recipient": {
+      "id": "default-user",
+      "role": "user"
+    },
+    "membersAdded": [],
+    "membersRemoved": [],
+    "locale": "en-GB",
+    "text": "You sent Hi which was 2 characters",
+    "attachments": [],
+    "entities": [],
+    "replyToId": "5e06ba30-8505-11e8-8f4d-89f618cf3c60",
+    "id": "5e543df1-8505-11e8-8f4d-89f618cf3c60"
+  }
+]

@@ -1,0 +1,60 @@
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Bot Application.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Bot Application.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Autofac.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Chronic.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Builder.Autofac.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Builder.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Connector.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Protocol.Extensions.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Rest.ClientRuntime.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.WindowsAzure.Configuration.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Newtonsoft.Json.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.IdentityModel.Tokens.Jwt.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.Net.Http.Formatting.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.Web.Http.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.Web.Http.WebHost.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Protocol.Extensions.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.IdentityModel.Tokens.Jwt.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.Net.Http.Formatting.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.Web.Http.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.Web.Http.WebHost.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Connector.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Builder.Autofac.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Builder.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Newtonsoft.Json.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.WindowsAzure.Configuration.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Autofac.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/ar/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/cs/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/de-dE/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/en/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/es/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/fa/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/fr/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/it/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/ja/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/nl/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/pt-BR/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/ru/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/zh-hans/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/obj/Debug/Bot Application.csprojResolveAssemblyReference.cache
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/obj/Debug/Bot Application.csproj.CoreCompileInputs.cache
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/obj/Debug/Bot Application.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/obj/Debug/Bot Application.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Logging.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Protocols.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Tokens.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Logging.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Logging.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Tokens.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Tokens.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.JsonWebTokens.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.JsonWebTokens.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.IdentityModel.Tokens.Jwt.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Protocols.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Builder.Autofac.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Builder.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/el/Microsoft.Bot.Builder.resources.dll

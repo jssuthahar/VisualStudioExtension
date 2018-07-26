@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{$GUID1$}|">
+  <MonoDevelop.Ide.ItemProperties.Bot_220Application PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument=".template.config/template.json">
+    <Files>
+      <File FileName="Web.Debug.config" Line="1" Column="1" />
+      <File FileName="packages.config" Line="1" Column="1" />
+      <File FileName="Controllers/MessagesController.cs" Line="1" Column="1" />
+      <File FileName="App_Start/WebApiConfig.cs" Line="1" Column="1" />
+      <File FileName=".template.config/template.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bot Application" expanded="True">
+            <Node name="Bot Application" expanded="True">
+              <Node name=".template.config" expanded="True" selected="True" />
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dialogs" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Web.config" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
